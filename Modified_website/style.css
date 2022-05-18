@@ -709,17 +709,17 @@ h2 {
     line-height: 1.4em;
 }
 
-h3 {
-    font-size: 15px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #333333!important;
-}
-
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
+}
+
+.med-width-whitespace h2 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333!important;
 }
 
 h1 {

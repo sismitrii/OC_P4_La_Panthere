@@ -709,7 +709,7 @@ h2 {
     line-height: 1.4em;
 }
 
-#bloc-2-services h2 {
+#bloc-2-services h2, #bloc-4-portfolio h2 {
     width: 65%;
     margin: 10px auto;
     font-weight: 600;
@@ -723,7 +723,7 @@ h2 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-.med-width-whitespace h3 {
+h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -746,11 +746,6 @@ h2 {
 .quote-bloc p {
     margin-top: 10px;
 }
-
-
-
-
-
 
 h1 {
     color: #333333!important;

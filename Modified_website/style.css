@@ -730,6 +730,28 @@ h2 {
     color: #333333!important;
 }
 
+.quote-bloc {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.quote-bloc q, .quote-bloc p {
+    font-size: 18px;
+    line-height:0.8 ;
+    font-weight: 500;
+    color: #585858;
+    font-style: italic;
+}
+
+.quote-bloc p {
+    margin-top: 10px;
+}
+
+
+
+
+
+
 h1 {
     color: #333333!important;
 }

@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.4rem;
 }
 
 .tight-width-whitespace {
@@ -1060,4 +1060,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+#bloc-8 ul li{
+    font-size: 2rem;
 }
